@@ -1,5 +1,5 @@
 import React from 'react';
-import MainPanel from './components/MainPanel';
+import MainPanel from './components/MainPanel.js';
 
 function App() {
   return (
