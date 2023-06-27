@@ -59,7 +59,7 @@ const App = () => {
       setEditingText("");
       setTodoEditing(null);
     } else {
-            alert("Enter valid task");
+      alert("Enter valid task");
     }
   };
 
